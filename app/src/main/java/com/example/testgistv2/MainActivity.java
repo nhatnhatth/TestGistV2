@@ -18,5 +18,8 @@ public class MainActivity extends AppCompatActivity {
         for(int i= 0; i<10; i++){
             Log.e("fasdf", "fdsaf");
         }
+        for(int i= 0; i<10; i++){
+            Log.e("fasdf", "fdsaf");
+        }
     }
 }

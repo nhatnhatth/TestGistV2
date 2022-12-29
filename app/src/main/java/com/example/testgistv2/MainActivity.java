@@ -28,5 +28,6 @@ public class MainActivity extends AppCompatActivity {
             Log.e("fasdf", "fdsaf");
         }
         String z ="2";
+//        Test merge
     }
 }

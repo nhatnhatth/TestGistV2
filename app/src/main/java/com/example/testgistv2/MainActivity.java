@@ -14,5 +14,8 @@ public class MainActivity extends AppCompatActivity {
         String k = "1";
         String a = "2";
         String h = "3";
+        for(int i= 0; i<10; i++){
+
+        }
     }
 }

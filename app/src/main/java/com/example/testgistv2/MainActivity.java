@@ -3,6 +3,7 @@ package com.example.testgistv2;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -15,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         String a = "2";
         String h = "3";
         for(int i= 0; i<10; i++){
-
+            Log.e("fasdf", "fdsaf");
         }
     }
 }
